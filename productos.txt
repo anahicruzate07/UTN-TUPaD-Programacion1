@@ -1,3 +1,0 @@
-Lapicera,120.5,30
-Cuaderno,850.0,15
-Goma,75.0,20
